@@ -1,4 +1,4 @@
-## AlmaBetter-Frontend Resume Builder Project
+## Resume Builder Project
 A resume builder web app developed using React JS.
 
 
