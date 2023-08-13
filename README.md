@@ -10,7 +10,7 @@ A resume builder web app developed using React JS.
   - React-avatar-edit, for selecting the profile image for resume.
   - React-router-dom, for routing.
  ## Deployment
- - This app has been deployed on 
+ - This app has been deployed on https://almacv-onfly.netlify.app/
  ## Demo
  - 
  
