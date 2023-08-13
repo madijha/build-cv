@@ -1,5 +1,5 @@
-## Resume Builder Project
-A resume builder web app developed using React JS.
+## Resume Building Web App.
+A resume builder web app developed using React JS and relevant packages.
 
 
 ## Libraries and Packages that are used in this project:
