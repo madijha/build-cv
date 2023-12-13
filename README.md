@@ -9,8 +9,3 @@ A resume builder app developed using React JS and relevant packages.
   - Redux, for the state management.  
   - React-avatar-edit, for selecting the profile image for resume.
   - React-router-dom, for routing.
- ## Deployment
- - This app has been deployed on https://cvonfly.netlify.app/
- ## Demo
- - 
- 
