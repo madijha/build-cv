@@ -11,6 +11,3 @@ A resume builder app developed using React JS and relevant packages.
   - React-router-dom, for routing.
  ## Deployment
  - This app has been deployed on https://cvonfly.netlify.app/
- ## Demo
- - 
- 
